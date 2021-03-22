@@ -16,7 +16,7 @@ import androidx.navigation.fragment.NavHostFragment;
 public class SecondFragment extends Fragment {
 
     public int compteur = 0;
-
+    //labite
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         // Inflate the layout for this fragment
